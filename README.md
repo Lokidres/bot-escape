@@ -34,7 +34,7 @@ A fast-paced survival game where you dodge enemy bots and try to survive as long
 ### Installation
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/bot-escape
+git clone https://github.com/Lokidres/bot-escape.git
 cd bot-escape
 ```
 
@@ -45,7 +45,7 @@ pip install pygame
 
 3. Run the game
 ```bash
-python bot_escape.py
+python bot-escape.py
 ```
 
 ## 🎯 Controls
